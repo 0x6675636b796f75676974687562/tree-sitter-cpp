@@ -3,3 +3,11 @@ node_modules
 build
 package-lock.json
 /target/
+.build/
+
+# CLion projects
+/.idea/
+
+# CMake build directories
+/cmake-build-debug/
+/cmake-build-release/
